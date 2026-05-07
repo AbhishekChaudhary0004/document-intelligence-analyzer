@@ -1,8 +1,6 @@
 streamlit
 easyocr
-google-generativeai
+google-genai
 pillow
 numpy
 opencv-python-headless
-torch
-torchvision
