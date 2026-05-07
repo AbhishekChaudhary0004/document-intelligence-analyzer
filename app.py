@@ -3,7 +3,7 @@ import easyocr
 import json
 import os
 import time
-from google import genai
+import google.generativeai as genai
 from google.genai.errors import ClientError, ServerError
 
 st.set_page_config(page_title="Document Intelligence Analyzer", page_icon="📄", layout="centered")
